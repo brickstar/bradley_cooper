@@ -35,11 +35,29 @@ article {
 .education {
   grid-column: 2 / 3;
   grid-row: 2 / 3;
-  background-color: rgb(230, 122, 169)
+  background-color: rgb(230, 122, 169);
 }
 
 .blog {
   grid-column: 3 / 4;
   grid-row: 2 / 3;
-  background-color: rgb(75, 7, 201)
+  background-color: rgb(75, 7, 201);
+}
+
+.social-menu {
+  grid-column: 1 / 2;
+  grid-row: 3 / 4;
+  background-color: rgb(213, 68, 84);
+}
+
+.contact {
+  grid-column: 2 / 3;
+  grid-row: 3 / 4;
+  background-color: rgb(22, 130, 64)
+}
+
+.portfolio {
+  grid-column: 3 / 4;
+  grid-row: 3 / 4;
+  background-color: rgb(187, 200, 238)
 }
